@@ -1,0 +1,7 @@
+C:\Users\lubom\Desktop\WorkTasks\SnakeByMEC\SnakeByMEC\SnakeByMEC\bin\Debug\SnakeByMEC.exe.config
+C:\Users\lubom\Desktop\WorkTasks\SnakeByMEC\SnakeByMEC\SnakeByMEC\bin\Debug\SnakeByMEC.exe
+C:\Users\lubom\Desktop\WorkTasks\SnakeByMEC\SnakeByMEC\SnakeByMEC\bin\Debug\SnakeByMEC.pdb
+C:\Users\lubom\Desktop\WorkTasks\SnakeByMEC\SnakeByMEC\SnakeByMEC\obj\Debug\SnakeByMEC.csprojAssemblyReference.cache
+C:\Users\lubom\Desktop\WorkTasks\SnakeByMEC\SnakeByMEC\SnakeByMEC\obj\Debug\SnakeByMEC.csproj.CoreCompileInputs.cache
+C:\Users\lubom\Desktop\WorkTasks\SnakeByMEC\SnakeByMEC\SnakeByMEC\obj\Debug\SnakeByMEC.exe
+C:\Users\lubom\Desktop\WorkTasks\SnakeByMEC\SnakeByMEC\SnakeByMEC\obj\Debug\SnakeByMEC.pdb
